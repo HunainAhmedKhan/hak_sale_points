@@ -11,7 +11,7 @@
         Add sales point in products it will show the total sales point per order also in order analysis report 
     """,
 
-    'author': "HAK Technologies",
+   'author': "HAK Technologies",
     'website': "http://www.HAKTechnologies.com",
     'images': ['static/description/banner.png'],
     'license': 'AGPL-3',
